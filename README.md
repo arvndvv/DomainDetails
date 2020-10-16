@@ -1,4 +1,4 @@
-# IP_Tracker
+# Domain_Details
 ```simple python snippet to get details about a domain or ip```
 
 **REQUIRES YOU To INSTALL REQUESTS MODULE, Command: pip install requests**
